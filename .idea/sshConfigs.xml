@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="SshConfigs">
+    <configs>
+      <sshConfig authType="PASSWORD" host="192.168.88.8" id="d3b849ff-d123-4fff-bdf3-c24947b22059" port="22" customName="node1-hudi" nameFormat="CUSTOM" username="root">
+        <option name="customName" value="node1-hudi" />
+      </sshConfig>
+    </configs>
+  </component>
+</project>

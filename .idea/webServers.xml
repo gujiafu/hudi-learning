@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="2ec1d76a-ce8f-4aa3-9a10-180769b32610" name="node1-hudi" url="http://192.168.88.8">
+        <fileTransfer accessType="SFTP" host="192.168.88.8" port="22" sshConfigId="d3b849ff-d123-4fff-bdf3-c24947b22059" sshConfig="node1-hudi">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
