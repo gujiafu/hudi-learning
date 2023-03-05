@@ -4,7 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a69de4cb-8188-4679-8333-6ae39ea74644" name="Default Changelist" comment="" />
+    <list default="true" id="a69de4cb-8188-4679-8333-6ae39ea74644" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -53,7 +56,7 @@
     <property name="WebServerToolWindowPanel.toolwindow.show.permissions" value="false" />
     <property name="WebServerToolWindowPanel.toolwindow.show.size" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/hudi-spark/pom.xml" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/datas" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="project.structure.last.edited" value="Global Libraries" />
     <property name="project.structure.proportion" value="0.15" />
@@ -62,8 +65,8 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
-      <recent name="D:\java\code\hudi-learning" />
       <recent name="D:\java\code\hudi-learning\datas" />
+      <recent name="D:\java\code\hudi-learning" />
     </key>
   </component>
   <component name="RunManager" selected="Application.HudiStartAppTest">
@@ -129,6 +132,7 @@
       <workItem from="1677680290593" duration="8222000" />
       <workItem from="1677992310505" duration="1699000" />
       <workItem from="1678007340577" duration="314000" />
+      <workItem from="1678007674164" duration="1518000" />
     </task>
     <servers />
   </component>
