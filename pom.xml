@@ -11,6 +11,7 @@
     <modules>
         <module>hudi-start</module>
         <module>hudi-spark</module>
+        <module>hudi-flink</module>
     </modules>
 
 
